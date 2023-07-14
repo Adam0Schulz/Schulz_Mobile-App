@@ -2,7 +2,7 @@ import React from 'react'
 import {View, Text, SafeAreaView, Image, ScrollView} from 'react-native'
 import {gStyles, lStyles} from './style'
 import DisplayOptions from '@components/DisplayOptions'
-import ItemList from '@components/ItemList/ItemList'
+import ItemList from '@components/ItemList'
 
 const Explore = () => {
   return (
